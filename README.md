@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/nawfelsekrafi/Order-summary-component)
+- Live Site URL:[Live demo](https://nawfelsekrafi.github.io/Order-summary-component/)
 
 ## My process
 
@@ -70,4 +70,4 @@ I want to focus more on Css grid, hsl colors...
 
 ## Acknowledgments
 
-i would say thank to brother [Mohamed Abusrea](https://twitter.com/mohamed_abusrea) for directing me to Front end mentor and sharing knowledge with us.
+I would say thanks to brother [Mohamed Abusrea](https://twitter.com/mohamed_abusrea) for directing me to Front end mentor and sharing knowledge with us.
