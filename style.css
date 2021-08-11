@@ -4,7 +4,7 @@ body {
     background-image: url("images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: "Red Hat Display";
+    font-family:'Red Hat Display', sans-serif;
     font-weight: 500;
 }
 
@@ -19,6 +19,8 @@ main {
 
 #page-title {
     font-weight: 900;
+    font-size: 25px;
+    margin: 25px 0px -4px 0px;
 }
 
 #hero-img {
@@ -28,7 +30,7 @@ main {
 #description {
     font-size: 16px;
     color:  hsl(224, 23%, 55%);
-    padding: 5px 60px;
+    padding: 0px 60px 9px 60px;
 }
 
 #payment {
@@ -45,18 +47,19 @@ main {
 
 #Annual-plan {
     font-weight: 700;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 #price {
     font-size: 15px;
-    margin: 4px 0px 0px -15px;
+    margin: 7px 0px 0px -8px;
     color:  hsl(224, 23%, 55%);
     display: inline-block
 }
 
 #change {
     font-weight: 700;
+    font-size: 14px;
     padding: 30px 30px 30px 110px;
     color:  hsl(245, 75%, 52%);
 }
@@ -74,7 +77,7 @@ main {
     display: inline-block;
     background-color: hsl(245, 75%, 52%);
     color:hsl(225, 100%, 98%);
-    padding: 13px 115px;
+    padding: 13px 113px;
     text-decoration: none;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(20, 96, 158, 0.2);
@@ -90,7 +93,7 @@ main {
     display: inline-block;
     color: hsl(224, 23%, 55%);
     font-weight: 700;
-    padding: 13px 115px;
+    padding: 13px 113px;
     text-decoration: none;
     border-radius: 7px;
 }
