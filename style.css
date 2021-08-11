@@ -54,7 +54,7 @@ main {
     font-size: 15px;
     margin: 7px 0px 0px -8px;
     color:  hsl(224, 23%, 55%);
-    display: inline-block
+    display: inline-block;
 }
 
 #change {
