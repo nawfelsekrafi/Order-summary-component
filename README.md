@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/nawfelsekrafi/Order-summary-component)
-- Live Site URL:[Live demo](https://nawfelsekrafi.github.io/Order-summary-component/)
+- Live Site URL: [Live demo](https://nawfelsekrafi.github.io/Order-summary-component/)
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 Working on real world projects was a threshold  for me.
 I am happy that FronEndMontor give us the chance to evaluate our skills.
-I leaned the use of the browser dev tools, css flex, hosting the project on github Pages, and wrinting md files and much more.
+I leaned the use of the browser dev tools, css flex, hosting the project on github Pages, writing md files and much more.
 
 ### Continued development
 
@@ -60,7 +60,7 @@ I want to focus more on Css grid, hsl colors...
 
 ### Useful resources
 
-- [Working with a Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - This helped me reduce the working time . I really liked this pattern and will use it going forward in all my projects.
+- [Working with a Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - This helped me reduce the working time. I really liked this pattern and i will use it going forward in all my projects.
 - [markdownlint : Markdown Preview](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - This is an amazing extention which helped me Preview Md files. I'd recommend it to anyone still learning this concept.
 
 ## Author
